@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<<<<<<< HEAD
 # MY NAME IS TREASURE
+=======
+>>>>>>> 904e4e375adc327ed1819e772fa85de4997fad7b
